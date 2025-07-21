@@ -1,6 +1,6 @@
 connection: "sample"
 
 include: "/views/*.view.lkml"
-include: "*.lkml"
+include: "/views/*.dashboard.lookml"
 
 explore: ecommerce_sample {}
