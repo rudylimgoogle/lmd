@@ -20,8 +20,8 @@
     col: 0
     width: 8
     height: 6
-  - title: Untitled
-    name: Untitled
+  - title: time series
+    name: time series
     model: lmd
     explore: ecommerce_sample
     type: looker_line
@@ -55,7 +55,8 @@
     show_null_points: true
     interpolation: linear
     defaults_version: 1
+    listen: {}
     row: 0
     col: 8
-    width: 8
+    width: 5
     height: 6
